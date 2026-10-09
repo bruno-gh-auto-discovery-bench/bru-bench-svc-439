@@ -1,0 +1,6 @@
+info:
+  name: delete 10
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/identity-contract-3/10
